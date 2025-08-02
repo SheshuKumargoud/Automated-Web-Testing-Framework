@@ -20,5 +20,5 @@ public class HomePage {
 
     public String getTitle() {
         return driver.getTitle();
-    }
+    } 
 }
